@@ -1,19 +1,15 @@
-## Miniflix
-
-This is the code that accompanies the **Miniflix** tutorial on **Scotch.io**.
-
-## Installation
-
-```bash
-
 # Get the project
-git clone https://github.com/unicodeveloper/miniflix
+
+git clone https://github.com/durgaprasad1995/videoplayer
 
 # Change directory
+
 cd miniflix
 
 # Install the dependencies
+
 npm install
 
 # Run your app
+
 npm start
