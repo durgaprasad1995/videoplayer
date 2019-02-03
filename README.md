@@ -4,7 +4,7 @@ git clone https://github.com/durgaprasad1995/videoplayer
 
 # Change directory
 
-cd miniflix
+cd videoplayer
 
 # Install the dependencies
 
