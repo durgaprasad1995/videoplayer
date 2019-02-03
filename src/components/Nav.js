@@ -1,8 +1,10 @@
 import React, { Component } from "react";
-import { Link } from "react-router";
-import { login, logout, isLoggedIn } from "../utils/AuthService";
+// import { Link } from "react-router";
+// import { login, logout, isLoggedIn } from "../utils/AuthService";
 import "../App.css";
-import { Button } from "reactstrap";
+// import { Button } from "reactstrap";
+
+// import { Navbar, Form, FormControl } from "react-bootstrap";
 
 // import { MdClearAll } from "react-icons/lib/md";
 class Nav extends Component {
@@ -20,6 +22,16 @@ class Nav extends Component {
             <a className="navbar-brand" href="#">
               Mobiotics
             </a>
+            {/* <form className="form-inline">
+              <input
+                className="form-control mr-sm-2"
+                type="text"
+                placeholder="Search"
+              />
+              <button className="btn btn-success" type="submit">
+                Search
+              </button>
+            </form> */}
             <button
               type="button"
               className="navbar-toggle"
@@ -31,6 +43,7 @@ class Nav extends Component {
               <span className="icon-bar" />
               <span className="icon-bar" />
             </button>
+
             <div className="collapse navbar-collapse">
               <ul className="navbar-nav nav navbar-right">
                 <li className="active">
@@ -43,6 +56,7 @@ class Nav extends Component {
             </div>
           </div>
         </nav>
+
         {/* <div className="grids-heading gallery-heading">
           <h2>Gallery</h2>
         </div>

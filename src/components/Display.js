@@ -1,18 +1,27 @@
 import React, { Component } from "react";
 // import { Link } from "react-router";
 import Nav from "./Nav";
+// import Popup from "./Popup";
+
 // import Footer from "./footer";
 // import { isLoggedIn } from "../utils/AuthService";
-import { CloudinaryContext, Transformation, Video } from "cloudinary-react";
+import { CloudinaryContext, Video } from "cloudinary-react";
 import axios from "axios";
 
 class Display extends Component {
-  state = { videos: [] };
+  constructor() {
+    super();
+    this.state = {
+      showPopup: false,
+      Modal: false,
+      videos: []
+    };
+  }
 
   getVideos() {
     axios.get("./video.json").then(res => {
       console.log(res.data.resources);
-      this.setState({ videos: res.data.resources.splice(0, 12) });
+      this.setState({ videos: res.data.resources.splice(0, 50) });
     });
   }
 
@@ -22,13 +31,20 @@ class Display extends Component {
   componentWillUnmount() {
     localStorage.clear();
   }
+
+  togglePopup() {
+    this.setState({
+      showPopup: !this.state.showPopup
+    });
+  }
+
   render() {
     const { videos } = this.state;
 
     return (
       <div>
         <Nav />
-
+        <hr />
         <hr />
 
         <div className="col-sm-12">
@@ -40,13 +56,22 @@ class Display extends Component {
                     publicId={data.public_id}
                     width="300"
                     height="300"
-                    poster="https://addpipe.com/sample_vid/poster.png"
+                    poster={data.poster}
                     controls
+                    onClick={this.togglePopup.bind(this)}
                   />
                 </div>
                 {/* <div> Created at {data.created_at} </div>
                  */}
-                <h3 className="style-scope ytd-grid-video-renderer">Test</h3>
+                <h3 className="style-scope ytd-grid-video-renderer">
+                  {data.description}
+                </h3>
+
+                {/* {this.state.showPopup ? (
+                  <div>
+                    <Popup closePopup={this.togglePopup.bind(this)} />
+                  </div>
+                ) : null} */}
               </div>
             ))}
           </CloudinaryContext>

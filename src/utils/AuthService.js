@@ -1,14 +1,14 @@
-import decode from 'jwt-decode';
-import { browserHistory } from 'react-router';
-import auth0 from 'auth0-js';
-const ID_TOKEN_KEY = 'id_token';
-const ACCESS_TOKEN_KEY = 'access_token';
+import decode from "jwt-decode";
+import { browserHistory } from "react-router";
+import auth0 from "auth0-js";
+const ID_TOKEN_KEY = "id_token";
+const ACCESS_TOKEN_KEY = "access_token";
 
-const CLIENT_ID = 'EeobY3jxsMoFREmqfmsZwAALQb73WeWm';
-const CLIENT_DOMAIN = 'unicoder.auth0.com';
-const REDIRECT = 'http://localhost:3000/callback';
-const SCOPE = 'full:access';
-const AUDIENCE = 'http://miniflix.com';
+const CLIENT_ID = "EeobY3jxsMoFREmqfmsZwAALQb73WeWm";
+const CLIENT_DOMAIN = "unicoder.auth0.com";
+const REDIRECT = "http://localhost:3000/callback";
+const SCOPE = "full:access";
+const AUDIENCE = "http://miniflix.com";
 
 var auth = new auth0.WebAuth({
   clientID: CLIENT_ID,
@@ -17,7 +17,7 @@ var auth = new auth0.WebAuth({
 
 export function login() {
   auth.authorize({
-    responseType: 'token id_token',
+    responseType: "token id_token",
     redirectUri: REDIRECT,
     audience: AUDIENCE,
     scope: SCOPE
@@ -27,12 +27,12 @@ export function login() {
 export function logout() {
   clearIdToken();
   clearAccessToken();
-  browserHistory.push('/');
+  browserHistory.push("/");
 }
 
 export function requireAuth(nextState, replace) {
   if (!isLoggedIn()) {
-    replace({pathname: '/'});
+    replace({ pathname: "/" });
   }
 }
 
@@ -54,19 +54,19 @@ function clearAccessToken() {
 
 // Helper function that will allow us to extract the access_token and id_token
 function getParameterByName(name) {
-  let match = RegExp('[#&]' + name + '=([^&]*)').exec(window.location.hash);
-  return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+  let match = RegExp("[#&]" + name + "=([^&]*)").exec(window.location.hash);
+  return match && decodeURIComponent(match[1].replace(/\+/g, " "));
 }
 
 // Get and store access_token in local storage
 export function setAccessToken() {
-  let accessToken = getParameterByName('access_token');
+  let accessToken = getParameterByName("access_token");
   localStorage.setItem(ACCESS_TOKEN_KEY, accessToken);
 }
 
 // Get and store id_token in local storage
 export function setIdToken() {
-  let idToken = getParameterByName('id_token');
+  let idToken = getParameterByName("id_token");
   localStorage.setItem(ID_TOKEN_KEY, idToken);
 }
 
@@ -77,7 +77,9 @@ export function isLoggedIn() {
 
 function getTokenExpirationDate(encodedToken) {
   const token = decode(encodedToken);
-  if (!token.exp) { return null; }
+  if (!token.exp) {
+    return null;
+  }
 
   const date = new Date(0);
   date.setUTCSeconds(token.exp);

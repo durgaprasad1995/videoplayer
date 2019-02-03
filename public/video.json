@@ -7,7 +7,9 @@
       "width": 1366,
       "height": 768,
       "type": "upload",
-      "created_at": "2019-02-02T12:27:30Z"
+      "created_at": "2019-02-02T12:27:30Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "moprwvxvuskepkyly5pg",
@@ -16,7 +18,9 @@
       "width": 1366,
       "height": 768,
       "type": "upload",
-      "created_at": "2019-02-02T12:26:44Z"
+      "created_at": "2019-02-02T12:26:44Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video"
     },
     {
       "public_id": "ntbgx88p0a9l4ihtupbi",
@@ -25,7 +29,9 @@
       "width": 1366,
       "height": 768,
       "type": "upload",
-      "created_at": "2019-02-02T12:26:00Z"
+      "created_at": "2019-02-02T12:26:00Z",
+      "poster": "luke-stevens-cover.jpg",
+      "description": "Video1"
     },
     {
       "public_id": "zzimwpuobwboxuiyt358",
@@ -34,7 +40,9 @@
       "width": 1366,
       "height": 768,
       "type": "upload",
-      "created_at": "2019-02-02T12:25:45Z"
+      "created_at": "2019-02-02T12:25:45Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video2"
     },
     {
       "public_id": "ahtd5yvvfc0p1inpqysi",
@@ -43,7 +51,9 @@
       "width": 1366,
       "height": 768,
       "type": "upload",
-      "created_at": "2019-02-02T12:24:43Z"
+      "created_at": "2019-02-02T12:24:43Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video3"
     },
     {
       "public_id": "lxi9z2y2bygoxdbkzews",
@@ -52,7 +62,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2019-01-16T09:24:09Z"
+      "created_at": "2019-01-16T09:24:09Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video4"
     },
     {
       "public_id": "kd3ywyuok2lgnclfkq7k",
@@ -61,7 +73,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2019-01-16T09:23:01Z"
+      "created_at": "2019-01-16T09:23:01Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video5"
     },
     {
       "public_id": "svthcj2hxclaaj129r4b",
@@ -70,7 +84,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2019-01-16T09:21:28Z"
+      "created_at": "2019-01-16T09:21:28Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video6"
     },
     {
       "public_id": "wochldszyahp6xca5jpt",
@@ -79,7 +95,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2019-01-04T10:32:01Z"
+      "created_at": "2019-01-04T10:32:01Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video7"
     },
     {
       "public_id": "liyrekdujjggn8b2qsbo",
@@ -88,7 +106,9 @@
       "width": 854,
       "height": 480,
       "type": "upload",
-      "created_at": "2019-01-02T05:15:18Z"
+      "created_at": "2019-01-02T05:15:18Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "x3culy3pwwa5hm5kaoi8",
@@ -97,7 +117,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-12-28T11:15:43Z"
+      "created_at": "2018-12-28T11:15:43Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "k21rylfuygjvqo8p5oke",
@@ -106,7 +128,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-12-28T09:34:43Z"
+      "created_at": "2018-12-28T09:34:43Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "glpfh8opw9jkk6eu8nqb",
@@ -115,7 +139,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-12-28T09:22:41Z"
+      "created_at": "2018-12-28T09:22:41Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lbfflgfqk7eivq1rtvvm",
@@ -124,7 +150,9 @@
       "width": 400,
       "height": 400,
       "type": "upload",
-      "created_at": "2018-12-19T22:18:13Z"
+      "created_at": "2018-12-19T22:18:13Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "khhe8akr4lqjxpvexcny",
@@ -133,7 +161,9 @@
       "width": 1536,
       "height": 864,
       "type": "upload",
-      "created_at": "2018-11-20T11:25:46Z"
+      "created_at": "2018-11-20T11:25:46Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "tt99hxni18gfqdhhmupu",
@@ -142,7 +172,9 @@
       "width": 1536,
       "height": 864,
       "type": "upload",
-      "created_at": "2018-11-20T10:04:43Z"
+      "created_at": "2018-11-20T10:04:43Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "cna4ixwazblkeosccnvn",
@@ -151,7 +183,9 @@
       "width": 640,
       "height": 480,
       "type": "upload",
-      "created_at": "2018-11-20T09:34:01Z"
+      "created_at": "2018-11-20T09:34:01Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "fsvqlt6vvwoqv5ktvbq2",
@@ -160,7 +194,9 @@
       "width": 1536,
       "height": 864,
       "type": "upload",
-      "created_at": "2018-11-20T09:33:36Z"
+      "created_at": "2018-11-20T09:33:36Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "tm81cp9292m4kasikcco",
@@ -169,7 +205,9 @@
       "width": 1536,
       "height": 864,
       "type": "upload",
-      "created_at": "2018-11-15T00:18:21Z"
+      "created_at": "2018-11-15T00:18:21Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "u9g2nhnf9gaidl7u4awy",
@@ -178,7 +216,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-11-15T00:17:33Z"
+      "created_at": "2018-11-15T00:17:33Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "pxfond3oypnguushzmyv",
@@ -187,7 +227,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-10-29T09:48:10Z"
+      "created_at": "2018-10-29T09:48:10Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "ozwr85gbet2umdoxkkmu",
@@ -196,7 +238,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-10-27T12:52:42Z"
+      "created_at": "2018-10-27T12:52:42Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "yvitwn2p9ddrjvlupivn",
@@ -205,7 +249,9 @@
       "width": 480,
       "height": 270,
       "type": "upload",
-      "created_at": "2018-10-27T12:44:32Z"
+      "created_at": "2018-10-27T12:44:32Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "clvvbkyd44hsttnkjbku",
@@ -214,7 +260,9 @@
       "width": 640,
       "height": 480,
       "type": "upload",
-      "created_at": "2018-10-25T11:09:26Z"
+      "created_at": "2018-10-25T11:09:26Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "ndbs5fi8xvsqszg2s1ta",
@@ -223,7 +271,9 @@
       "width": 1004,
       "height": 758,
       "type": "upload",
-      "created_at": "2018-10-01T18:42:37Z"
+      "created_at": "2018-10-01T18:42:37Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "aneqndm0r0eshyxmapks",
@@ -232,7 +282,9 @@
       "width": 480,
       "height": 270,
       "type": "upload",
-      "created_at": "2018-09-19T16:12:31Z"
+      "created_at": "2018-09-19T16:12:31Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "xkvkiaezc2k6nwifx7ai",
@@ -241,7 +293,9 @@
       "width": 480,
       "height": 270,
       "type": "upload",
-      "created_at": "2018-09-19T01:03:14Z"
+      "created_at": "2018-09-19T01:03:14Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lbpljpuctzqpckupyiea",
@@ -250,7 +304,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-09-17T18:16:12Z"
+      "created_at": "2018-09-17T18:16:12Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lrkzjsktqbempogmhv8t",
@@ -259,7 +315,9 @@
       "width": 1280,
       "height": 960,
       "type": "upload",
-      "created_at": "2018-09-12T14:53:36Z"
+      "created_at": "2018-09-12T14:53:36Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "pezkp8fg1q3qdpt9qqe5",
@@ -268,7 +326,9 @@
       "width": 1280,
       "height": 960,
       "type": "upload",
-      "created_at": "2018-09-12T14:53:26Z"
+      "created_at": "2018-09-12T14:53:26Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "uglaljsdjhcxnubr9gfp",
@@ -277,7 +337,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-09-07T09:32:35Z"
+      "created_at": "2018-09-07T09:32:35Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "qmzxmplgizwlxaakhy8o",
@@ -286,7 +348,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-09-07T09:31:31Z"
+      "created_at": "2018-09-07T09:31:31Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "le1yurem0w7bqbdx0qxq",
@@ -295,7 +359,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-09-03T15:07:25Z"
+      "created_at": "2018-09-03T15:07:25Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lukkragqxcjaempdtted",
@@ -304,7 +370,9 @@
       "width": 480,
       "height": 298,
       "type": "upload",
-      "created_at": "2018-08-28T15:51:35Z"
+      "created_at": "2018-08-28T15:51:35Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lbiscbrhgidtq9jmo1qc",
@@ -313,7 +381,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-07-21T15:14:17Z"
+      "created_at": "2018-07-21T15:14:17Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "rcqzlp00yewcgi71uace",
@@ -322,7 +392,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-07-03T13:26:57Z"
+      "created_at": "2018-07-03T13:26:57Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "rgolekksuvzsseb4o9fh",
@@ -331,7 +403,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-07-03T13:26:28Z"
+      "created_at": "2018-07-03T13:26:28Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "myoybgg27yayq9bmxy8t",
@@ -340,7 +414,9 @@
       "width": 886,
       "height": 1920,
       "type": "upload",
-      "created_at": "2018-07-03T13:20:43Z"
+      "created_at": "2018-07-03T13:20:43Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "hvovsum783i6zr1dmo34",
@@ -349,7 +425,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2018-06-14T00:23:51Z"
+      "created_at": "2018-06-14T00:23:51Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "jb4uwdkoulfi6lxzaj2b",
@@ -358,7 +436,9 @@
       "width": 480,
       "height": 854,
       "type": "upload",
-      "created_at": "2018-05-22T08:49:05Z"
+      "created_at": "2018-05-22T08:49:05Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "pkzjijobmm8pvxszf8e9",
@@ -367,16 +447,22 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-05-18T11:33:45Z"
+      "created_at": "2018-05-18T11:33:45Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
-      "public_id": "mkt2bxyyl0a7qfpmussz",
+      "public_id": "mkt2bxyyl0a7qfpmussZ",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8",
       "version": 1526643194,
       "format": "mp4",
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-05-18T11:33:14Z"
+      "created_at": "2018-05-18T11:33:14Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "nkpxcmhrh0s2eq05wvkq",
@@ -385,7 +471,9 @@
       "width": 320,
       "height": 178,
       "type": "upload",
-      "created_at": "2018-05-12T14:41:50Z"
+      "created_at": "2018-05-12T14:41:50Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lfhepz83oyhkbhi8ipxs",
@@ -394,7 +482,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2018-04-20T15:42:54Z"
+      "created_at": "2018-04-20T15:42:54Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "duoobana4nwdy1m8696p",
@@ -403,7 +493,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-03-09T10:50:04Z"
+      "created_at": "2018-03-09T10:50:04Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "kyezmfynmdt1fcsih0wi",
@@ -412,7 +504,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-03-02T08:15:04Z"
+      "created_at": "2018-03-02T08:15:04Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "jyids8sfevpmm6lpofmh",
@@ -421,7 +515,9 @@
       "width": 480,
       "height": 480,
       "type": "upload",
-      "created_at": "2018-02-28T22:05:21Z"
+      "created_at": "2018-02-28T22:05:21Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "wn2asrwadywbljena8mt",
@@ -430,7 +526,9 @@
       "width": 720,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-02-28T15:03:28Z"
+      "created_at": "2018-02-28T15:03:28Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "olbnkbuipr3r2pngl7i5",
@@ -439,7 +537,9 @@
       "width": 720,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-02-28T15:02:45Z"
+      "created_at": "2018-02-28T15:02:45Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "tupacigwe",
@@ -448,7 +548,9 @@
       "width": 480,
       "height": 480,
       "type": "upload",
-      "created_at": "2018-02-27T22:42:21Z"
+      "created_at": "2018-02-27T22:42:21Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "dnnlvivsk5fqb2wlqupg",
@@ -457,7 +559,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-02-20T01:43:40Z"
+      "created_at": "2018-02-20T01:43:40Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "mzxlypcdxbcwacgbfr3x",
@@ -466,7 +570,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2018-01-28T16:16:00Z"
+      "created_at": "2018-01-28T16:16:00Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "qdlid2aw0rxblqpheyy3",
@@ -475,7 +581,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-12-21T12:25:23Z"
+      "created_at": "2017-12-21T12:25:23Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "sxzum86vmnidjdhluwmi",
@@ -484,7 +592,9 @@
       "width": 1098,
       "height": 522,
       "type": "upload",
-      "created_at": "2017-12-18T19:06:01Z"
+      "created_at": "2017-12-18T19:06:01Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "wkphai47qiwtfrjdrujs",
@@ -493,7 +603,9 @@
       "width": 1098,
       "height": 522,
       "type": "upload",
-      "created_at": "2017-12-18T19:05:24Z"
+      "created_at": "2017-12-18T19:05:24Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "uw6es046idlzzfcmykj4",
@@ -502,7 +614,9 @@
       "width": 1098,
       "height": 522,
       "type": "upload",
-      "created_at": "2017-12-16T20:56:33Z"
+      "created_at": "2017-12-16T20:56:33Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "az4vl30xqp1zpcyxx8yn",
@@ -511,7 +625,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-12-08T12:23:50Z"
+      "created_at": "2017-12-08T12:23:50Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "oeqq5xpfkjtmkkmh5vb5",
@@ -520,16 +636,22 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-11-11T02:54:38Z"
+      "created_at": "2017-11-11T02:54:38Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
-      "public_id": "smlmmcfubkgd8nyahmgz",
+      "public_id": "smlmmcfubkgd8nyahmgZ",
+      "poster": "htmlupload.jpg",
+      "description": "Video8",
       "version": 1510368812,
       "format": "mp4",
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-11-11T02:53:33Z"
+      "created_at": "2017-11-11T02:53:33Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "bhaqphwakr6cp8d9jmxb",
@@ -538,7 +660,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-11-10T23:47:17Z"
+      "created_at": "2017-11-10T23:47:17Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "cgnekbtg50fr9gezvs7m",
@@ -547,7 +671,9 @@
       "width": 2000,
       "height": 2000,
       "type": "upload",
-      "created_at": "2017-10-08T22:46:41Z"
+      "created_at": "2017-10-08T22:46:41Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "v37z04auzdlzyvm0mhjt",
@@ -556,7 +682,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-10-08T22:45:21Z"
+      "created_at": "2017-10-08T22:45:21Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "nnvtulierxuksrqxfcju",
@@ -565,7 +693,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-09-28T00:17:21Z"
+      "created_at": "2017-09-28T00:17:21Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "akeuxmukwug906dj9p73",
@@ -574,7 +704,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-09-06T08:27:47Z"
+      "created_at": "2017-09-06T08:27:47Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "knwdi7xw3w98qbiumkz7",
@@ -583,7 +715,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-09-04T01:26:19Z"
+      "created_at": "2017-09-04T01:26:19Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "xkfakojcusaeo4fhmfzu",
@@ -592,7 +726,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-24T17:29:15Z"
+      "created_at": "2017-08-24T17:29:15Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "swqr2r0zinqtxnxxslio",
@@ -601,7 +737,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-08-23T10:36:37Z"
+      "created_at": "2017-08-23T10:36:37Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "dwes1ierclmgviv7kmo1",
@@ -610,7 +748,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-08-16T07:57:31Z"
+      "created_at": "2017-08-16T07:57:31Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lvvjtlusyra55tfcfawp",
@@ -619,7 +759,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-08-06T11:10:22Z"
+      "created_at": "2017-08-06T11:10:22Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "fognw3zrjqqsiydruzxq",
@@ -628,7 +770,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-08-06T11:09:45Z"
+      "created_at": "2017-08-06T11:09:45Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "zgospbc7abdpywwcwnl4",
@@ -637,7 +781,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-04T01:06:44Z"
+      "created_at": "2017-08-04T01:06:44Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "w0earwuk25awnoeyg38k",
@@ -646,7 +792,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-03T19:41:11Z"
+      "created_at": "2017-08-03T19:41:11Z",
+      "poster": "htmlupload.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "okyuhlg0jigg5bbeamui",
@@ -655,7 +803,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-03T18:22:01Z"
+      "created_at": "2017-08-03T18:22:01Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "wqajrvjo0o915odq6cdg",
@@ -664,7 +814,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-03T02:58:02Z"
+      "created_at": "2017-08-03T02:58:02Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "e9tls3yautmup7idkwee",
@@ -673,7 +825,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-08-01T21:36:44Z"
+      "created_at": "2017-08-01T21:36:44Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "uln6mzsrco8gumowuorg",
@@ -682,7 +836,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-31T02:23:07Z"
+      "created_at": "2017-07-31T02:23:07Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "olxcdqxra0zwf6jsxuam",
@@ -691,7 +847,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-07-25T14:54:04Z"
+      "created_at": "2017-07-25T14:54:04Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "xxjpojyxpcv4w42wr3dj",
@@ -700,7 +858,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-07-25T14:52:10Z"
+      "created_at": "2017-07-25T14:52:10Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "uboftt2vhngzcjblqnle",
@@ -709,7 +869,9 @@
       "width": 320,
       "height": 176,
       "type": "upload",
-      "created_at": "2017-07-25T09:27:37Z"
+      "created_at": "2017-07-25T09:27:37Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "mbxookjycree7sldzc7j",
@@ -718,7 +880,9 @@
       "width": 1024,
       "height": 576,
       "type": "upload",
-      "created_at": "2017-07-21T08:56:45Z"
+      "created_at": "2017-07-21T08:56:45Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "rzli3qcjyoz87whlis09",
@@ -727,7 +891,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-10T22:00:45Z"
+      "created_at": "2017-07-10T22:00:45Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "nnkk3bghi7nescneo84c",
@@ -736,7 +902,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-08T18:53:19Z"
+      "created_at": "2017-07-08T18:53:19Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "xizlrzrulk4hznlxkw99",
@@ -745,7 +913,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-07T09:54:26Z"
+      "created_at": "2017-07-07T09:54:26Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "hkrskxj3hnsbblfcrqht",
@@ -754,7 +924,9 @@
       "width": 864,
       "height": 486,
       "type": "upload",
-      "created_at": "2017-07-07T09:52:31Z"
+      "created_at": "2017-07-07T09:52:31Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "ct07avotfmyyhbrfsagm",
@@ -763,7 +935,9 @@
       "width": 864,
       "height": 486,
       "type": "upload",
-      "created_at": "2017-07-07T09:51:15Z"
+      "created_at": "2017-07-07T09:51:15Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "lfenamf8rk7cxf8duunj",
@@ -772,7 +946,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-07-07T09:49:23Z"
+      "created_at": "2017-07-07T09:49:23Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "ffrktoufp4prgargj4me",
@@ -781,7 +957,9 @@
       "width": 640,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-07-07T09:47:49Z"
+      "created_at": "2017-07-07T09:47:49Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "o24wptbm6eyqgfgihnjm",
@@ -790,7 +968,9 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-07-07T09:46:18Z"
+      "created_at": "2017-07-07T09:46:18Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "sigzj6t7feobez1wpa6n",
@@ -799,7 +979,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-07T09:42:32Z"
+      "created_at": "2017-07-07T09:42:32Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "irrhafoo6cemoyarou2a",
@@ -808,7 +990,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-07T09:38:18Z"
+      "created_at": "2017-07-07T09:38:18Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "tipkxyvwicyxzdznpmol",
@@ -817,7 +1001,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-07-06T12:40:50Z"
+      "created_at": "2017-07-06T12:40:50Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "hx9jrupbev8ubk6b3tsx",
@@ -826,7 +1012,9 @@
       "width": 480,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-07-06T12:26:29Z"
+      "created_at": "2017-07-06T12:26:29Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "wysbksh6dfz9gnytqcze",
@@ -835,7 +1023,9 @@
       "width": 480,
       "height": 360,
       "type": "upload",
-      "created_at": "2017-07-06T12:26:11Z"
+      "created_at": "2017-07-06T12:26:11Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "b58x2htytidibdgre0gn",
@@ -844,16 +1034,22 @@
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-07-04T22:24:21Z"
+      "created_at": "2017-07-04T22:24:21Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
-      "public_id": "qtg2kyafj8r6xcufnqmz",
+      "public_id": "qtg2kyafj8r6xcufnqmZ",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8",
       "version": 1499206948,
       "format": "mp4",
       "width": 1920,
       "height": 1080,
       "type": "upload",
-      "created_at": "2017-07-04T22:22:28Z"
+      "created_at": "2017-07-04T22:22:28Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "rrt3k9rxfg7nnz0rd7i2",
@@ -862,7 +1058,9 @@
       "width": 640,
       "height": 320,
       "type": "upload",
-      "created_at": "2017-06-30T13:47:20Z"
+      "created_at": "2017-06-30T13:47:20Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "wh4v78fkbe4agk2nwmsw",
@@ -871,7 +1069,9 @@
       "width": 426,
       "height": 240,
       "type": "upload",
-      "created_at": "2017-06-28T07:51:33Z"
+      "created_at": "2017-06-28T07:51:33Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "emi2bkdhlapgsaqbgasu",
@@ -880,7 +1080,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-06-27T02:15:28Z"
+      "created_at": "2017-06-27T02:15:28Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "znzagmxu0cwup1hyn7b5",
@@ -889,7 +1091,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-06-27T01:57:55Z"
+      "created_at": "2017-06-27T01:57:55Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "jjdutk4iytyp7ucnumr8",
@@ -898,7 +1102,9 @@
       "width": 426,
       "height": 240,
       "type": "upload",
-      "created_at": "2017-06-24T11:53:55Z"
+      "created_at": "2017-06-24T11:53:55Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "utp2vuhes8rsqgg5pazj",
@@ -907,7 +1113,9 @@
       "width": 1346,
       "height": 756,
       "type": "upload",
-      "created_at": "2017-06-24T10:37:17Z"
+      "created_at": "2017-06-24T10:37:17Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "jwntccpauk3hm9uypsqj",
@@ -916,7 +1124,9 @@
       "width": 1340,
       "height": 754,
       "type": "upload",
-      "created_at": "2017-06-24T10:36:39Z"
+      "created_at": "2017-06-24T10:36:39Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "ra4o80twf58j4irrngp0",
@@ -925,7 +1135,9 @@
       "width": 256,
       "height": 144,
       "type": "upload",
-      "created_at": "2017-06-22T07:15:48Z"
+      "created_at": "2017-06-22T07:15:48Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "x7n2c70aouyj2xtc3nvj",
@@ -934,7 +1146,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-06-21T20:56:44Z"
+      "created_at": "2017-06-21T20:56:44Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "foczfkq7kqtggjo8x94d",
@@ -943,7 +1157,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-06-21T20:56:42Z"
+      "created_at": "2017-06-21T20:56:42Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "bocuwxemiwx4dyvfixxv",
@@ -952,7 +1168,9 @@
       "width": 1280,
       "height": 720,
       "type": "upload",
-      "created_at": "2017-06-21T20:56:41Z"
+      "created_at": "2017-06-21T20:56:41Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "r4knmrs7pkztygqgh0qy",
@@ -961,7 +1179,9 @@
       "width": 1462,
       "height": 828,
       "type": "upload",
-      "created_at": "2017-06-21T16:01:43Z"
+      "created_at": "2017-06-21T16:01:43Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "csm3p49lwardx9cupx5y",
@@ -970,7 +1190,9 @@
       "width": 1462,
       "height": 828,
       "type": "upload",
-      "created_at": "2017-06-21T16:00:53Z"
+      "created_at": "2017-06-21T16:00:53Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "umpjooaprzzij9kga6vs",
@@ -979,7 +1201,9 @@
       "width": 426,
       "height": 240,
       "type": "upload",
-      "created_at": "2017-06-21T15:48:51Z"
+      "created_at": "2017-06-21T15:48:51Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "bsid14s9xqlxqd5kibvh",
@@ -988,7 +1212,9 @@
       "width": 500,
       "height": 500,
       "type": "upload",
-      "created_at": "2017-06-21T09:56:39Z"
+      "created_at": "2017-06-21T09:56:39Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "v5ehvvzhrarqjqrubzte",
@@ -997,7 +1223,9 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T13:48:23Z"
+      "created_at": "2017-06-13T13:48:23Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "rtbgj2onz6ldahmcjfue",
@@ -1006,7 +1234,9 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T09:34:06Z"
+      "created_at": "2017-06-13T09:34:06Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "xhknav0thdza2lc9t5xd",
@@ -1015,7 +1245,9 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T09:33:47Z"
+      "created_at": "2017-06-13T09:33:47Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "cv0bls4rpfkl8p2vdpnv",
@@ -1024,7 +1256,9 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T09:33:30Z"
+      "created_at": "2017-06-13T09:33:30Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "grzjf2onxgyhxpksvkle",
@@ -1033,7 +1267,9 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T08:33:25Z"
+      "created_at": "2017-06-13T08:33:25Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     },
     {
       "public_id": "dz56tuylixbkuxthflzp",
@@ -1042,8 +1278,12 @@
       "width": 996,
       "height": 466,
       "type": "upload",
-      "created_at": "2017-06-13T08:33:00Z"
+      "created_at": "2017-06-13T08:33:00Z",
+      "poster": "html5_banner_bookcover_dommermuth.jpg",
+      "description": "Video8"
     }
   ],
-  "updated_at": "2019-02-02T15:23:16Z"
+  "updated_at": "2019-02-02T15:23:16Z",
+  "poster": "html5_banner_bookcover_dommermuth.jpg",
+  "description": "Video8"
 }
