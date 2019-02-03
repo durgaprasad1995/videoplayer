@@ -1,8 +1,79 @@
-.navbar-right { margin-right: 0px !important}
+.navbar-right {
+  margin-right: 0px !important;
+}
 .log {
   margin: 5px 20px 0 0;
 }
 .videos {
   border: 1px solid red;
-  height:400px;
+  height: 400px;
+}
+.show-reel a img {
+  width: 100%;
+}
+.show-reel:nth-child(2) {
+  margin: 2em 0;
+}
+.show-reel:nth-child(2) {
+  margin: 0em 0;
+}
+.show-reel a img {
+  width: 100%;
+}
+.agile-gallery {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  border: solid 5px #fff;
+  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+.agile-gallery:hover .agileits-caption {
+  bottom: 0%;
+}
+.agileits-caption h4 {
+  margin: 1em 0 0.3em 0;
+  font-size: 1.5em;
+}
+.agileits-caption {
+  height: 153px;
+}
+.agileits-caption {
+  background: rgba(0, 0, 0, 0.62);
+  padding: 1em;
+  position: absolute;
+  left: 0;
+  bottom: -105%;
+  text-align: center;
+  width: 100%;
+  height: 213px;
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+  -moz-transition: 0.5s all;
+}
+.agileits-caption h4 {
+  color: #ffffff;
+  font-size: 1.5em;
+  margin: 1.5em 0 0.5em 0;
+}
+
+.agileits-caption p {
+  color: #ffffff;
+  font-size: 1em;
+  margin: 0;
+  line-height: 1.8em;
+}
+.navbar-inverse .navbar-brand {
+  color: #9d9d9d;
+}
+@media (min-width: 768px) {
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    margin-left: -15px;
+  }
+}
+h3.ytd-grid-video-renderer {
+  color: var(--yt-spec-text-primary);
+  margin: 8px 0 8px;
 }
